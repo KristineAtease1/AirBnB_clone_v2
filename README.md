@@ -12,6 +12,6 @@ deploy in the coming month:
 * Full configuration of website with domain name
 * Serving of dynamic content using JavaScript
 
-## Authors
+## Author
 
   [Kristine Atease](https://github.com/KristineAtease1)
